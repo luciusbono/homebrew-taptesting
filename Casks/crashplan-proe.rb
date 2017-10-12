@@ -8,7 +8,7 @@ cask 'crashplan-proe' do
 
   auto_updates true
 
-  pkg 'Install CrashPlan.pkg'
+  pkg 'Install CrashPlan PROe.pkg'
 
   uninstall launchctl: 'com.backup42.desktop',
             pkgutil:   'com.crashplan.app.pkg',
