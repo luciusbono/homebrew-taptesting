@@ -1,6 +1,6 @@
 cask 'crashplan-proe' do
   version '4.5.2'
-  sha256 '855e63d87a156754e0e03f2cd274d204a36682fb541809aa1400613e367234a0'
+  sha256 '21fcf556dc06f06ff81956901414d71c1a168974567189aadd934ede8b1f6d91'
 
   url "https://download.code42.com/installs/mac/install/CrashPlanPROe/CrashPlanPROe_#{version}_Mac.dmg"
   name 'CrashPlan ProE'
